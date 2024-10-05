@@ -10,11 +10,11 @@ In this project, I explored the application of two popular metaheuristic algorit
   Utilized libraries such as Pillow, scikit-image, and OpenCV for handling image data.
   Programmatically generated images from polygons with varying colors and transparency.
 
-2.Metaheuristic Optimization:
+2. Metaheuristic Optimization:
   Implemented Tabu Search (TS) and Iterated Local Search (ILS) to iteratively reconstruct an image by adjusting the polygon parameters.
   Developed a fitness function to minimize the difference between the generated image and the reference image using Mean Squared Error (MSE) and Structural Similarity Index (SSIM).
   
-3.Performance Evaluation:
+3. Performance Evaluation:
   Compared the performance of both algorithms based on their ability to accurately replicate a famous painting.
   Visualized the evolution of the image reconstruction through side-by-side comparisons at various stages of the algorithm's execution.
 
