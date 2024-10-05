@@ -5,7 +5,7 @@
 # Project Overview:
 In this project, I explored the application of two popular metaheuristic algorithms—Tabu Search (TS) and Iterated Local Search (ILS)—for image reconstruction using transparent polygons. The goal was to reconstruct a famous painting by overlapping semitransparent polygons and optimizing the image similarity using Python libraries like Pillow, scikit-image, and OpenCV.
 
-![alt text](https://github.com/francescogra/ArtificialIntelligenceExam/blob/main/slide1.png "MSE metric")
+  ![alt text](https://github.com/francescogra/ArtificialIntelligenceExam/blob/main/slide1.png "MSE metric")
 
 # Key Components:
 1. Image Processing in Python:
