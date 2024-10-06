@@ -1,4 +1,4 @@
-# ArtificialIntelligenceExam
+# This repository contains the exam project of Artificial Intelligence, a Data Science subject taught at the University of Catania.
 
 # Metaheuristic Algorithms for Image Reconstruction: Tabu search and Iterated Local Search
 
