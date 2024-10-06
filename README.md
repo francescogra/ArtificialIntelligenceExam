@@ -1,6 +1,7 @@
 # This repository contains the exam project of Artificial Intelligence, a Data Science subject taught at the University of Catania.
 
-# Metaheuristic Algorithms for Image Reconstruction: Tabu search and Iterated Local Search
+# Title:
+Metaheuristic Algorithms for Image Reconstruction: Tabu search and Iterated Local Search
 
 # Project Overview:
 In this project, I explored the application of two popular metaheuristic algorithms—Tabu Search (TS) and Iterated Local Search (ILS)—for image reconstruction using transparent polygons. The goal was to reconstruct a famous painting by overlapping semitransparent polygons and optimizing the image similarity using Python libraries like Pillow, scikit-image, and OpenCV.
